@@ -1,0 +1,24 @@
+C:\Users\super\Documents\repos\TcpTesting\Client\Client\bin\Debug\Client.exe.config
+C:\Users\super\Documents\repos\TcpTesting\Client\Client\bin\Debug\Client.exe
+C:\Users\super\Documents\repos\TcpTesting\Client\Client\bin\Debug\Client.pdb
+C:\Users\super\Documents\repos\TcpTesting\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\super\Documents\repos\TcpTesting\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\Documents\repos\TcpTesting\Client\Client\obj\Debug\Client.Client.resources
+C:\Users\super\Documents\repos\TcpTesting\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\super\Documents\repos\TcpTesting\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\super\Documents\repos\TcpTesting\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\repos\TcpTesting\Client\Client\obj\Debug\Client.exe
+C:\Users\super\Documents\repos\TcpTesting\Client\Client\obj\Debug\Client.pdb
+C:\Users\super\Documents\repos\Can we talk\Client\Client\bin\Debug\Client.exe.config
+C:\Users\super\Documents\repos\Can we talk\Client\Client\bin\Debug\Client.exe
+C:\Users\super\Documents\repos\Can we talk\Client\Client\bin\Debug\Client.pdb
+C:\Users\super\Documents\repos\Can we talk\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\super\Documents\repos\Can we talk\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\Documents\repos\Can we talk\Client\Client\obj\Debug\Client.Client.resources
+C:\Users\super\Documents\repos\Can we talk\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\super\Documents\repos\Can we talk\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\super\Documents\repos\Can we talk\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\repos\Can we talk\Client\Client\obj\Debug\Client.exe
+C:\Users\super\Documents\repos\Can we talk\Client\Client\obj\Debug\Client.pdb
+C:\Users\super\Documents\repos\Can we talk\Client\Client\obj\Debug\Client.Login.resources
+C:\Users\super\Documents\repos\Can we talk\Client\Client\obj\Debug\Client.Register.resources

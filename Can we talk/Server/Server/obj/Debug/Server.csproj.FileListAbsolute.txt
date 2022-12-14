@@ -1,0 +1,22 @@
+C:\Users\super\Documents\repos\TcpTesting\Server\Server\bin\Debug\Server.exe.config
+C:\Users\super\Documents\repos\TcpTesting\Server\Server\bin\Debug\Server.exe
+C:\Users\super\Documents\repos\TcpTesting\Server\Server\bin\Debug\Server.pdb
+C:\Users\super\Documents\repos\TcpTesting\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\super\Documents\repos\TcpTesting\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\Documents\repos\TcpTesting\Server\Server\obj\Debug\Server.Server.resources
+C:\Users\super\Documents\repos\TcpTesting\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\super\Documents\repos\TcpTesting\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\super\Documents\repos\TcpTesting\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\repos\TcpTesting\Server\Server\obj\Debug\Server.exe
+C:\Users\super\Documents\repos\TcpTesting\Server\Server\obj\Debug\Server.pdb
+C:\Users\super\Documents\repos\Can we talk\Server\Server\bin\Debug\Server.exe.config
+C:\Users\super\Documents\repos\Can we talk\Server\Server\bin\Debug\Server.exe
+C:\Users\super\Documents\repos\Can we talk\Server\Server\bin\Debug\Server.pdb
+C:\Users\super\Documents\repos\Can we talk\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\super\Documents\repos\Can we talk\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\Documents\repos\Can we talk\Server\Server\obj\Debug\Server.Server.resources
+C:\Users\super\Documents\repos\Can we talk\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\super\Documents\repos\Can we talk\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\super\Documents\repos\Can we talk\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\repos\Can we talk\Server\Server\obj\Debug\Server.exe
+C:\Users\super\Documents\repos\Can we talk\Server\Server\obj\Debug\Server.pdb
